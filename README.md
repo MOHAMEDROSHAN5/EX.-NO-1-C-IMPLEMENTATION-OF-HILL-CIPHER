@@ -71,7 +71,7 @@ int main() {
 
 ```
 ## OUTPUT:
-![EX3](https://github.com/user-attachments/assets/8f2507ad-9157-4354-9d10-25bf06119f0d)
+![ex3](https://github.com/user-attachments/assets/723efb7c-d424-4843-b627-95e8766e6116)
 
 
 
